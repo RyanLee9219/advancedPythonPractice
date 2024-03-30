@@ -1,3 +1,4 @@
-Hi! My name is Ryan Lee
-It's my first time to make English -> Chinese translator with Python! 
-I am so excited!
+Hi, my name is JooYong
+I am from Korea
+I love coding and cooking and DDonDDon(my wife)
+nice to meet you
